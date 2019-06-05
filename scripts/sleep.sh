@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-systemctl stop httpd
+sleep 3
